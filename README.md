@@ -112,8 +112,8 @@ text = ...
 If you want to make a good result, make sure there are the following content in your prompt.
 ```
 prompt = """
-You are a <role>.
-Your task is to <role task>.
+You are a ... .
+Your task is to ... .
 Generate ... .
 <write condition, if any>
 Make sure to use ... <if any>.
