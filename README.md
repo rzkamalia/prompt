@@ -1,4 +1,4 @@
-# [ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/)
+# ChatGPT Prompt Engineering for Developers
 
 This repository is note from watching video [DeepLearning.AI - ChatGPT Prompt Engineering for Developers](https://learn.deeplearning.ai/courses/chatgpt-prompt-eng/).
 
@@ -129,9 +129,9 @@ Generate a reply to thank the customer for their review.
 If the sentiment is positive or neutral, thank them for their review. If the sentiment is negative, apologize and suggest that they can reach out to customer service. 
 Make sure to use specific details from the review.
 Write in a concise and professional tone.
-"""
 
 customer review: ...
 
 review sentiment: ...
+"""
 ```
