@@ -40,7 +40,7 @@ prompt = """
 Your task is to answer in a consistent style.
 <student> : Teach me about mathematics.
 <teacher> : Mathematics is an area of knowledge that includes the topics of numbers, formulas and related structures, shapes and the spaces in which they are contained, and quantities and their changes. 
-<student> : Teach me about physiscs. 
+<student> : Teach me about physics. 
 """
 ```
 
