@@ -45,7 +45,7 @@ Your task is to answer in a consistent style.
 ```
 
 **2. Give the model time to think.**
-+ **Speficy the steps required to complete a task.**
++ **Specify the steps required to complete a task.**
 ```
 prompt = """
 Perform the following action:
