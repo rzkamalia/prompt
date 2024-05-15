@@ -4,10 +4,10 @@ This repository is note from watching video [DeepLearning.AI - ChatGPT Prompt En
 
 
 ### Principal of Prompting
-1. Write clear and spesific instructions.
+1. Write clear and specific instructions.
 2. Give the model time to think.
 
-**1. Write clear and spesific instructions.**
+**1. Write clear and specific instructions.**
 + **Use delimiters to clearly indicate distinct parts of the input.** Delimiter can be like: 
 ```
 ```, """, < >, :
@@ -63,7 +63,7 @@ text = ...
 ```
 
 ### Prompt Development Guideline
-1. Be clear and spesific.
+1. Be clear and specific.
 2. Analyze why result does not give desired output.
 3. Refine the idea and the prompt.
 4. Repeat.
