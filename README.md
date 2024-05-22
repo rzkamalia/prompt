@@ -100,7 +100,7 @@ review = ...
 + **Prompt for Inferring Topic** 
 ```
 prompt = """
-Determine five topicsw that are discussed in the following text. 
+Determine five topics that are discussed in the following text. 
 Make each item one or two long.
 Format your response as list of items separate by comma.
 
